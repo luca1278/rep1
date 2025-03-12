@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u0141ukasz\\gitcik\\Problem n-hetmanow\\",
+  "WorkspaceRootPath": "C:\\Users\\\u0141ukasz\\gitcik\\Problemn-hetmanow\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3A709899-7C18-4583-AC8D-E766811B00C0}|Problem n-hetmanow\\Problem n-hetmanow.vcxproj|C:\\Users\\\u0141ukasz\\gitcik\\Problem n-hetmanow\\Problem n-hetmanow\\Problem n-hetmanow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3A709899-7C18-4583-AC8D-E766811B00C0}|Problem n-hetmanow\\Problem n-hetmanow.vcxproj|C:\\Users\\\u0141ukasz\\gitcik\\Problemn-hetmanow\\Problem n-hetmanow\\Problem n-hetmanow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3A709899-7C18-4583-AC8D-E766811B00C0}|Problem n-hetmanow\\Problem n-hetmanow.vcxproj|solutionrelative:Problem n-hetmanow\\Problem n-hetmanow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Problem n-hetmanow.cpp",
-              "DocumentMoniker": "C:\\Users\\\u0141ukasz\\gitcik\\Problem n-hetmanow\\Problem n-hetmanow\\Problem n-hetmanow.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0141ukasz\\gitcik\\Problemn-hetmanow\\Problem n-hetmanow\\Problem n-hetmanow.cpp",
               "RelativeDocumentMoniker": "Problem n-hetmanow\\Problem n-hetmanow.cpp",
-              "ToolTip": "C:\\Users\\\u0141ukasz\\gitcik\\Problem n-hetmanow\\Problem n-hetmanow\\Problem n-hetmanow.cpp",
+              "ToolTip": "C:\\Users\\\u0141ukasz\\gitcik\\Problemn-hetmanow\\Problem n-hetmanow\\Problem n-hetmanow.cpp",
               "RelativeToolTip": "Problem n-hetmanow\\Problem n-hetmanow.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-12T12:35:15.596Z",
               "EditorCaption": ""
