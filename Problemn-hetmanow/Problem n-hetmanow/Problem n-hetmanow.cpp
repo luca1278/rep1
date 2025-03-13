@@ -1,24 +1,27 @@
 ﻿#include <iostream>
+#include <vector>
+#include <utility>
+#include <cmath>
 using namespace std;
-const int wiersze=8;
-const int kolumny=8;
-int main()
-{
-    int table[wiersze][kolumny] = {
-        {2,2,2,2,2,2,2,2},
-        {2,2,2,2,2,2,2,2},
-        {2,2,2,2,2,2,2,2},
-        {2,2,2,2,2,2,2,2},
-        {2,2,2,2,2,2,2,2},
-        {2,2,2,2,2,2,2,2},
-        {2,2,2,2,2,2,2,2},
-        {2,2,2,2,2,2,2,2},
-    };
-    for (int i = 0; i < wiersze; i++) {
-        for (int j = 0;j < kolumny;j++) {
-            cout<<table[i][j]<<"\t";
+bool possible(int rows, int columns, const vector<pair<int, int>> q) {
+    for (int i = 0;i < q.size();i++) {
+        if (q[i].first == rows || q[i].second == columns || q[i].first == abs(q[i].second - columns) || q[i].second == abs(q[i].first - rows)) {
+            return false;
         }
-        cout << "\n";
+    }
+    return true;
+}
+
+int main() {
+    int n = 2;
+    vector<pair<int, int>> q(n);
+    int count = 0;
+    q.push_back({ 1,1 });
+    if (possible(1, 2, q) == true) {
+        cout << "tak";
+    }
+    else {
+        cout << "nie";
     }
     return 0;
 }
